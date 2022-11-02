@@ -6,20 +6,20 @@ MORSE_HASH = {
   '-..-' => 'x', '-.--' => 'y', '--..' => 'z', '   ' => ' '
 }.freeze
 
-def morse_char_decoder(_input)
-  MORSE_HASH[_input].upcase
+def morse_char_decoder(input)
+  MORSE_HASH[input].upcase
 end
 
-def morse_word_decoder(_input)
-  _output = ''
-  _input.split.each { |word| _output += morse_char_decoder(word)}
-  _output
+def morse_word_decoder(input)
+  output = ''
+  input.split.each { |word| output += morse_char_decoder(word) }
+  output
 end
 
-def morse_sentence_decoder(_input)
-  _output = ''
-  _input.split('   ').each { |sentence|  _output += "#{morse_word_decoder(sentence)} "}
-  _output
+def morse_sentence_decoder(input)
+  output = ''
+  input.split('   ').each { |sentence| output += "#{morse_word_decoder(sentence)} " }
+  output
 end
 
 # Puts cypher text
