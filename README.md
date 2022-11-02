@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# React Group Project - Fábio Lima and Ibnballo Bello
+# React Group Project - Fábio Lima and Abdulrahman Nganje
 
 > Ruby Project
 
@@ -22,14 +22,13 @@ git clone https://github.com/limavfabio/decode-morse/.git
 
 👤 **Abdulrahman Nganje**
 
-- GitHub:
-- LinkedIn:
-- Youtube:
+- GitHub: [@Nganje](https://github.com/asnganje)
+- LinkedIn: [@Nganje](https://www.linkedin.com/in/abdulrahman-nganje-a6436935/)
 
 👤 **Fábio Vinícius Dias Lima**
 
 - GitHub: [limavfabio](https://github.com/limavfabio)
-- LinkedIn: [limavfabio](https://www.linkedin.com/in/f%C3%A1bio-lima-a28b16182/)
+- LinkedIn: [limavfabio](https://www.linkedin.com/in/limavfabio)
 - Twitter: [limavfabio](https://twitter.com/limavfabio)
 
 ## 🤝 Contributing
