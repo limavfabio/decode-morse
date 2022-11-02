@@ -8,7 +8,12 @@ def morse_code_decoder(cypher_string)
   }
 
   # decode cypher text
-
+  cypher_array = cypher_string.split(/\s/).map { |i| morse_hash[i] }
+  text = ''
+  cypher_array.each do |t|
+    text += (t || ' ')
+  end
+  text.split.join(' ').upcase
 end
 
 # Puts cypher text

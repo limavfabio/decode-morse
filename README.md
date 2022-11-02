@@ -22,9 +22,8 @@ git clone https://github.com/limavfabio/decode-morse/.git
 
 👤 **Abdulrahman Nganje**
 
-- GitHub:
-- LinkedIn:
-- Youtube:
+- GitHub: [@Nganje](https://github.com/asnganje)
+- LinkedIn: [@Nganje](https://www.linkedin.com/in/abdulrahman-nganje-a6436935/)
 
 👤 **Fábio Vinícius Dias Lima**
 
